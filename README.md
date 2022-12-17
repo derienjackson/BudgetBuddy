@@ -16,7 +16,7 @@ Calculates input income/expenses and saves to local storage
 
 <p align="center">
 Budgeting Page <br/>
-<img src="https://i.imgur.com/3lAlp8P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WSTI4xH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
